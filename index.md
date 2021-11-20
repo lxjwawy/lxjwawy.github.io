@@ -1,37 +1,43 @@
 ## 刘娴婧（2001020025）
 
-You can use the [editor on GitHub](https://github.com/lxjwawy/lxjwawy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的个人主页！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
+```
+姓名:刘娴婧
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+性别：女
 
-```markdown
-Syntax highlighted code block
+出生年月：2002年1月25日
 
-# Header 1
-## Header 2
-### Header 3
+籍贯：湖南省益阳市安化县清塘铺镇
 
-- Bulleted
-- List
+专业：国际经济与贸易
 
-1. Numbered
-2. List
+政治面貌：共青团员
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+电子邮件：893259318@qq.com
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 技能总结
 
-### Jekyll Themes
+证书：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lxjwawy/lxjwawy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 计算机二级
 
-### Support or Contact
+* 英语四级
+
+其他：
+
+* 能够熟练使用Office办公软件
+
+* 会使用PR、PS等软件
+
+* 会Python这种编程语言
+
+* 能够进行策划案及推文的撰写
+
+### 兴趣爱好
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
